@@ -1,0 +1,13 @@
+{
+  "name": "WhatTheTwilio",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RavensbourneWebMedia/wtt.git"
+  },
+  "license": "CC-BY-NC-4.0",
+  "dependencies": {
+    "johnny-five": "^0.10.13",
+    "twilio": "^3.3.0"
+  }
+}
